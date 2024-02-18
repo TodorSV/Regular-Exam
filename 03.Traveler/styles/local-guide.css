@@ -1,0 +1,45 @@
+.local-guide {
+  background-color: #e14747;
+  padding: 3em 0 5em 0;
+}
+
+.local-guide .container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2em;
+}
+
+.local-guide .container h2 {
+  font-family: "Cormorant Infant", serif;
+  font-size: 90px;
+  color: #fff;
+  text-align: center;
+  max-width: 50ch;
+  line-height: 1;
+  margin-top: 1em;
+}
+
+.local-guide .container p {
+  font-family: "Karla", sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #f0efef;
+  text-align: center;
+  max-width: 80ch;
+  margin-top: 3em;
+}
+
+.local-guide .container .local-btn {
+    margin-top: 2em;
+}
+
+.local-guide .container .local-btn a {
+  text-decoration: none;
+  background-color: #FAD87A;
+  color: black;
+  font-size: 18px;
+  padding: 1em 1.2em;
+  border-radius: 1.7em;
+
+}

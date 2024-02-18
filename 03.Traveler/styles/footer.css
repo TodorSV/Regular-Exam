@@ -1,0 +1,34 @@
+footer {
+    padding: 4em 0;
+    background-color: #352b2a;
+}
+
+footer .footer-logo {
+    display: block;
+    width: 5em;
+    height: 5em;
+    padding-top: 0.5em;
+  }
+
+footer .footer-container {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 1em;
+    margin-left: 6em;
+
+}
+
+footer .footer-container .footer-content .first-p {
+    color: #F2FFF2;
+    max-width: 47ch;
+}
+ 
+
+footer .footer-container .footer-content .second-p {
+    color: #726666;
+    margin-top: 2em;
+}
+
+
+

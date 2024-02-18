@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Karla&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Infant&display=swap");
+
+
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  body {
+    font-size: inherit;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
+
+body::before {
+    content: '';
+    background: url('../03.Traveler_Resources/images/poster.jpg') center / 100% 100%;
+    filter: brightness(65%);
+    position: absolute;
+    height: 84%;
+    width:  100%;
+    z-index: -1;
+}
+
+
+  /* ▪ Font-size for big title – 90px
+  ▪ Font-size for other text – 16px */

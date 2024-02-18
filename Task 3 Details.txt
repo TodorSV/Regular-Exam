@@ -1,0 +1,3 @@
+Browser 100%
+Scale and layout 100%
+Display Resolution 1920 x 1080

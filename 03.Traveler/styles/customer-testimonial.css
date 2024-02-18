@@ -1,0 +1,20 @@
+.customer-testimonial {
+    background-color: #F8F0E9;
+}
+
+.customer-testimonial .container {
+    padding: 1em 3em;
+}
+
+.customer-testimonial .container p {
+    font-size: 18px;
+    padding: 1em 0;
+}
+
+.customer-testimonial .container blockquote p {
+    font-size: 90px;
+    line-height: 0.9;
+    font-family: 'Cormorant Infant';
+    font-weight: bold;
+    font-style: italic;
+}
